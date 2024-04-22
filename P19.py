@@ -14,6 +14,6 @@ right_eye = canvas.create_oval(210, 150, 270, 210, fill="blue")
 
 smile = canvas.create_line(150, 240, 250, 240, fill="yellow", width=15)
 
-triangle = canvas.create_polygon(200, 320, 160, 280, 240, 280, outline="black", fill="white", width=3)
+triangle = canvas.create_polygon(200, 320, 160, 280, 240, 280, outline="black", fill="white", width=14)
 
 root.mainloop()
